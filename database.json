@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "parties": [
         {
@@ -72,79 +71,4 @@
             "details": "Details will be added soon"
         }
     ]
-=======
-{
-    "parties": [
-        {
-            "name": "Loose some weight Office Potluck",
-            "location": "Constantin Brâncuși Office and Sighet Office",
-            "date": "February 3rd, 2023",
-            "time": "21PM - 23PM",
-            "details": "Bring some healthy food like salads, hummus, vegetables and lets have a chill evening together. Meat can be an option but only if it's cooked in a healthy manner"
-        },
-        {
-            "name": "Mărțisor Tea/Coffee",
-            "location": "Anton Pann office",
-            "date": "March 1st, 2023",
-            "time": "12PM - 15PM",
-            "details": "Sighet office is welcome to come and spend the day working from the Cluj office and go back to Sighet the following day"
-        },
-        {
-            "name": "Easter Dinner",
-            "location": "Hotel IZA - Sighetul Marmației",
-            "date": "April 8th, 2023",
-            "time": "18PM - 23PM",
-            "details": "Details will be added soon"
-        },
-        {
-            "name": "Bianca's Pre Birthday Party - Roast the boss",
-            "location": "Anton Pann office",
-            "date": "May 12th, 2023",
-            "time": "21PM - ",
-            "details": "Eat pizza, drink and play Mafia"
-        },
-        {
-            "name": "Summer Party",
-            "location": "Location to be updated",
-            "date": "May 27th, 2023",
-            "time": " - ",
-            "details": "Details will be added soon"
-        },
-        {
-            "name": "Dress to impress",
-            "location": "All offices",
-            "date": "July 3rd, 2023",
-            "time": " All day ",
-            "details": "Dresscode: White, Red and Blue. Donuts and Cupcakes on the house"
-        },
-        {
-            "name": "Pool Party",
-            "location": "Location to be updated",
-            "date": "August 19-20, 2023",
-            "time": " - ",
-            "details": "Details will be added soon"
-        },
-        {
-            "name": "Halloween Party",
-            "location": "Location to be updated",
-            "date": "October 28th, 2023",
-            "time": " - ",
-            "details": "Details will be added soon"
-        },
-        {
-            "name": "Thanksgiving Potluck",
-            "location": "Anton Pann Office and Sighet Office",
-            "date": "November 22nd, 2023",
-            "time": " - ",
-            "details": "Details will be added soon"
-        },
-        {
-            "name": "Christmas Party",
-            "location": "Hotel IZA - Sighetul Marmației",
-            "date": "December 9th, 2023",
-            "time": " - ",
-            "details": "Details will be added soon"
-        }
-    ]
->>>>>>> 846d8853f9686ab98557aae4b1fea24f11a70b86
 }
