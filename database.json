@@ -70,5 +70,68 @@
             "time": " - ",
             "details": "Details will be added soon"
         }
+    ],
+
+    "USHolidays": [
+        {
+            "date": "1st & 2nd of January",
+            "name": "New Year"           
+        },
+        {
+            "date": "16th & 17th of April",
+            "name": "Orthodox Easter"           
+        },
+        {
+            "date": "29th of May",
+            "name": "Memorial Day"            
+        },
+        {
+            "date": "4th of July",
+            "name": "Independence Day"            
+        },
+        {
+            "date": "23rd & 24th of November",
+            "name": "Thanksgiving"            
+        },
+        {
+            "date": "25th & 26th of December",
+            "name": "Christmas"            
+        }
+    ],
+
+    "ROHolidays": [
+       
+        {
+            "date": "24th of January",
+            "name": "Orthodox Easter"           
+        },
+        {
+            "date": "14th of April",
+            "name": "Good Friday"             
+        },
+        {
+            "date": "1st of May",
+            "name": "Romanian Labor Day"             
+        },
+        {
+            "date": "1st of June",
+            "name": "Children's Day"            
+        },
+        {
+            "date": "5th of June",
+            "name": "Pentecost"            
+        },
+        {
+            "date": "15th of August",
+            "name": "The Assumption of Mary"            
+        },
+        {
+            "date": "30th of November",
+            "name": "St. Andrew"            
+        },
+        {
+            "date": "1st of December",
+            "name": "Great Union Day - Romanian National Day"            
+        }
     ]
 }
