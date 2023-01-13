@@ -182,7 +182,7 @@ var parties = {};
       let party = document.getElementById('select');
     for (let i in parties.parties) {
        party.innerHTML +=
-      `<a class="dropdown-item" href="..Calendar/party.html?id=${i}" style="font-size: 1.5rem"> ${parties.parties[i].name} </a>`
+      `<a class="dropdown-item" href="https://poproxanaalexandra.github.io/party.html?id=${i}" style="font-size: 1.5rem"> ${parties.parties[i].name} </a>`
           }
       //* de pus aici in # linkul pentru fiecare party in parte
       //* de modificat culori 
