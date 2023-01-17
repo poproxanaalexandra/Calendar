@@ -10,8 +10,8 @@
   padding: 0;
   width: 100%;
   height: 100%;
-  background-color: #12121f;
-  color: #eee;
+  background-color: #d5d5ff;
+  color: rgb(55, 55, 55);
   
 }
 .full2 {
@@ -20,7 +20,7 @@
 }
 
 body {
-    color: #262626;
+    color: #d5d5ff;
   }
 
 img {
@@ -36,8 +36,8 @@ html {
 .container {
   width: 100%;
   height: 100vh;
-  background-color: #12121f;
-  color: #eee;
+  background-color: #d5d5ff;
+  color: rgb(0, 0, 0);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,7 +47,7 @@ html {
   padding-top: 100px;
   width: 100%;
   height: 300vh;
-  background-color: #12121f;
+  background-color: #d5d5ff;
   display: flex;
   justify-content: center;
   
@@ -56,14 +56,14 @@ html {
 .calendar {
   width: 45rem;
   height: 52rem;
-  background-color: rgb(45, 49, 53);
+  background-color: rgb(255, 244, 225);
   box-shadow: 0 0.5rem 3rem rgba(0, 0, 0, 4);
 }
 
 .month {
   width: 100%;
   height: 12rem;
-  background-color: #152a9f;
+  background-color: #f17575;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -137,11 +137,11 @@ html {
 }
 
 .today {
-  background-color: #152a9f;
+  background-color: #7387fd;
 }
 
 .holiday {
-  background-color: #ff0008;
+  background-color: #ff6a6f;
   position: relative;
   display: flex;
   place-content: center;
